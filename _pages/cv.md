@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* August 2019 - Current: Software Engineer
+* August 2019 - October 2020: Software Engineer
   * Freshop Inc.
   
 
