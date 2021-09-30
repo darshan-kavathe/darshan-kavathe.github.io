@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Rochester Institute of Technology, 2019
-* B.E. in Electronics Engineering, Mumbai University, 2014 (Sardar Patel Institute of Technology)
+* M.S. in Computer Science, 2019
+  *Rochester Institute of Technology (B. Thomas Golisano College of Computing and Information Sciences)
+* B.E. in Electronics Engineering, 2014 
+  *Mumbai University (Sardar Patel Institute of Technology)
 
 Software Development experience
 ======
@@ -20,7 +22,7 @@ Software Development experience
   * Quorum Analytics
 * August 2019 - October 2020: Software Engineer
   * Freshop Inc.
-* Fall 2018: Software Engineering Co-op (Autonomous Driving)
+* Fall 2018: Software Engineering Co-op
   * NextDroid LLC.
   
 Languages

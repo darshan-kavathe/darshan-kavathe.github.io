@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Darshan Kavathe"
 title_separator          : "-"
 name                     : &name "Darshan Kavathe"
-description              : &description "Software Engineer @ Quorum"
+description              : &description "Software Engineer"
 url                      : https://darshan-kavathe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "darshan-kavathe/darshan-kavathe.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Darshan Kavathe"
   avatar           : "profile.png"
-  bio              : "Software Engineer"
+  bio              : "Software Engineer @ Quorum"
   location         : "Washington, DC"
   employer         : "Quorum"
   pubmed           : 
