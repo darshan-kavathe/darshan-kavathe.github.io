@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I hold a Masters in Computer Science and 2 years of work experience, with a demonstrated history of delivering large, complex projects. Interests include working with and Machine Learning/Computer Vision. Currently looking for for full-time opportunities in backend software development/ computer vision. Available to relocate nationwide.
+I hold a Masters in Computer Science and have 2 years of work experience, with a demonstrated history of delivering large, complex projects. Interested in backend software development, data-driven design, Machine Learning/Computer vision . Available to relocate nationwide.
