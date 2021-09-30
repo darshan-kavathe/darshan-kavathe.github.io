@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Darshan Kavathe"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Darshan Kavathe"
 description              : &description "Software Engineer"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Software Engineer @ Quorum"
   location         : "Washington, DC"
-  employer         : "Quorum"
+  employer         :
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
