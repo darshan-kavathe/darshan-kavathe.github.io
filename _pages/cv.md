@@ -17,7 +17,7 @@ Education
 Software Development experience
 ======
 * March 2021 - Current: Software Engineer
-  * Quorum Inc.
+  * Quorum Analytics
 * August 2019 - October 2020: Software Engineer
   * Freshop Inc.
 * Fall 2018: Software Engineering Co-op (Autonomous Driving)
