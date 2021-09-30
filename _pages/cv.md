@@ -12,15 +12,15 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science, Rochester Institute of Technology, 2019
-* B.E. in Electronics Engineering, 2014
+* B.E. in Electronics Engineering, Mumbai University, 2014 (Sardar Patel Institute of Technology)
 
-Work experience
+Software Development experience
 ======
+* March 2021 - Current: Software Engineer
+  * Quorum Inc.
 * August 2019 - October 2020: Software Engineer
   * Freshop Inc.
-  
-
-* Fall 2018: Software Engineering Intern
+* Fall 2018: Software Engineering Co-op (Autonomous Driving)
   * NextDroid LLC.
   
 Languages
@@ -28,6 +28,6 @@ Languages
 * C++
 * Python
 * Java
-* Ruby
+* JavaScript
 
 For more info, checkout linkedin page.
