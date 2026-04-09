@@ -16,7 +16,9 @@ Education
 
 Software Development experience
 ======
-* March 2021 - Current: Software Engineer
+* Dec 2021 - Aug 2025: Software Engineer
+  * Amazon
+* March 2021 - Oct 2021: Software Engineer
   * Quorum Analytics
 * August 2019 - October 2020: Software Engineer
   * Freshop Inc.
@@ -25,9 +27,9 @@ Software Development experience
   
 Languages
 ======
+* Java
 * C++
 * Python
-* Java
 * JavaScript
 
 For more info, checkout linkedin page.
